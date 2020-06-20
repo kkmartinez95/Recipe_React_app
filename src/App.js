@@ -49,7 +49,7 @@ const App = () => {
           placeholder="Search for Recipes Here!"
         />
         <button className="search-button" type="submit">
-          Search
+          Search!
         </button>
       </form>
       <div className="parent-of-recipes">
